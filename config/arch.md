@@ -66,8 +66,9 @@ sudo ufw enable #Activad
 
 # Programas para estudar!
 
-//arandr 
-
+//zed 
+//zellij
+//tmux
 
 # Caminhos dos Arquivos!
 

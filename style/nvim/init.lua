@@ -1,7 +1,16 @@
 -- Nvim.Lua
+local opt = vim.opt
 
 
 -- Config
+
+opt.clipboard = 'unnamedplus'
+opt.number = true
+opt.relativenumber = true
+opt.confirm = true
+opt.scrolloff = 8
+opt.cursorline = true
+
 
 vim.cmd("set expandtab")
 vim.cmd("set tabstop=4")

@@ -20,7 +20,7 @@ git add .
 
 
 # Commit
-git commit -m <Mensagem>
+git commit -m <"Mensagem"
 
 
 # Push
