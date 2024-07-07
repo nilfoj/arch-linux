@@ -206,6 +206,13 @@ output DP-1 pos 3840 0 res 1366x768
     bindsym $mod+minus scratchpad show
 
 
+# Define a largura da borda padrão
+default_border none
+
+# Define a largura da borda para novas janelas
+for_window [class=".*"] border pixel none
+
+
 ## Resizing containers:
 
 mode "resize" {
